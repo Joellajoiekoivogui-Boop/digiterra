@@ -11,6 +11,7 @@ export default function DashboardLayout() {
             <li><Link to="">Accueil</Link></li>
             <li><Link to="profil">Profil</Link></li>
             <li><Link to="parametres">Paramètres</Link></li>
+            <p>Bonjour </p>
           </ul>
         </nav>
       </aside>
